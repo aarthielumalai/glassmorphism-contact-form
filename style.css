@@ -152,7 +152,7 @@ header p {
 .contact form button:focus {
     background-color: rgba(255, 255, 255, 0.7);
     color: #5e5e5e;
-    transform: scaleX(1.01) ScaleY(1.02);
+    transform: scaleX(1.02) ScaleY(1.04);
 }
 
 @media (max-width: 620px) {
